@@ -10,3 +10,5 @@ prueba 1
 4. administracion de sistemas y procedimientos
 
 5. no alcanzar el objetivo establecido o esperado
+
+6. por poder optimizar los procesos, sitemas o pasos de la organizacion, poder crear sistemas semi automaticos
