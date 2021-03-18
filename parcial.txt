@@ -14,3 +14,5 @@ prueba 1
 6. por poder optimizar los procesos, sitemas o pasos de la organizacion, poder crear sistemas semi automaticos
 
 7. entidad orientada a lograr sus metas con un sistema coordinados por la organizacion
+
+8. poder obtener un sitema optimo para lograr las metas de la organizacion, no saber el funcionamiento o procesos del sistema
