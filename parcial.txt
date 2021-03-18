@@ -16,3 +16,5 @@ prueba 1
 7. entidad orientada a lograr sus metas con un sistema coordinados por la organizacion
 
 8. poder obtener un sitema optimo para lograr las metas de la organizacion, no saber el funcionamiento o procesos del sistema
+
+9. para conocer los fallos obtenidos en el periodo de tiempo de ejecucion del organigrama y obtener todo lo que no funciono de manera optima para la organizacion 
