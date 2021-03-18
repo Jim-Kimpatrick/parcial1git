@@ -3,3 +3,5 @@ prueba 1
 1. conjunto de pasos o procedimientos
 
 2. abiertos: 1.animales 2.vaso 3.telefono con internet Cerrado:1.globo de nieve 2.host local 3. calculadora
+
+3. mala optimizacion en los procesos, no saber el procedimiento de la empresa u organizacion
